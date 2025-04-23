@@ -2,6 +2,8 @@ void main() {
   print('Hola, mensaje en main para probar comando rebase');
 }
 // Comentario en main para probar comando rebase
+// Primer comentario rama experimento_rebase
+
 /*import 'package:flutter/material.dart';
 
 void main() {
